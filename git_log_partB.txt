@@ -1,0 +1,85 @@
+commit 10e881ce57c32042a3117184a3c9c32c4ea35dd5
+Author: Adeshk02 <adeshkachave01@gmail.com>
+Date:   Mon Mar 11 13:48:34 2024 +0530
+
+    readding file2.txt
+
+diff --git a/File2.txt b/File2.txt
+new file mode 100644
+index 0000000..072b0eb
+--- /dev/null
++++ b/File2.txt
+@@ -0,0 +1 @@
++2026 software engineer
+\ No newline at end of file
+
+commit 36ae70b0edcc1ee95d902b9067ee0deef43c6f1e
+Author: Adeshk02 <adeshkachave01@gmail.com>
+Date:   Mon Mar 11 13:42:38 2024 +0530
+
+    Deleting File2.txt
+
+diff --git a/File1.txt b/File1.txt
+index 27a33e9..9e0e797 100644
+--- a/File1.txt
++++ b/File1.txt
+@@ -1 +1,2 @@
+-NAME:-adesh kachave computer science engineering
+\ No newline at end of file
++NAME:-adesh kachave computer science engineering dangal sai
++orange
+\ No newline at end of file
+diff --git a/File2.txt b/File2.txt
+deleted file mode 100644
+index 072b0eb..0000000
+--- a/File2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2026 software engineer
+\ No newline at end of file
+
+commit f495057b4fd27bd51beea2ac052fb18addc09488
+Author: Adeshk02 <adeshkachave01@gmail.com>
+Date:   Mon Mar 11 13:37:42 2024 +0530
+
+    added year of graduation
+
+diff --git a/File2.txt b/File2.txt
+new file mode 100644
+index 0000000..072b0eb
+--- /dev/null
++++ b/File2.txt
+@@ -0,0 +1 @@
++2026 software engineer
+\ No newline at end of file
+
+commit 2ccd6bb6dcdc9f8098911d26ab3d3332e8196084
+Author: Adeshk02 <adeshkachave01@gmail.com>
+Date:   Mon Mar 11 13:23:47 2024 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/File1.txt b/File1.txt
+index 19d0b2c..27a33e9 100644
+--- a/File1.txt
++++ b/File1.txt
+@@ -1 +1 @@
+-NAME:-adesh kachave student ID:-28739
+\ No newline at end of file
++NAME:-adesh kachave computer science engineering
+\ No newline at end of file
+
+commit 606d203cc0ce8bce1310aef3a310ad200c2e07ad
+Author: Adeshk02 <adeshkachave01@gmail.com>
+Date:   Mon Mar 11 13:19:37 2024 +0530
+
+    Commiting a new file with my name
+
+diff --git a/File1.txt b/File1.txt
+new file mode 100644
+index 0000000..19d0b2c
+--- /dev/null
++++ b/File1.txt
+@@ -0,0 +1 @@
++NAME:-adesh kachave student ID:-28739
+\ No newline at end of file
